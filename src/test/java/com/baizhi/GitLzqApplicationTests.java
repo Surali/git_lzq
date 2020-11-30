@@ -11,6 +11,8 @@ class GitLzqApplicationTests {
         int a=1;
         int b=2;
         System.out.println("122");
+
+        System.out.println("159");
     }
 
 }
