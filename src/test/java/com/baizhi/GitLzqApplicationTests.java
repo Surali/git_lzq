@@ -8,6 +8,8 @@ class GitLzqApplicationTests {
 
     @Test
     void contextLoads() {
+        int a=1;
+        int b=2;
     }
 
 }
